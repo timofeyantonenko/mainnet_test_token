@@ -2,5 +2,5 @@
   "name": "mainnet_test_token",
   "symbol": "MNTT",
   "description": "It's our test token, not yours.",
-  "image": ""
+  "image": "https://raw.githubusercontent.com/timofeyantonenko/mainnet_test_token/refs/heads/main/token_image_for_mainnet.png"
 }
